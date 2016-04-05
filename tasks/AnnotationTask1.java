@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
  * User: Anet
  * Date: 31.03.16
  * Time: 20:29
- * To change this template use File | Settings | File Templates.
+ * Annotation for Task 1
  */
 @Retention(value = RetentionPolicy.RUNTIME)
 @Target(value = ElementType.METHOD)

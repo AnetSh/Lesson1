@@ -5,9 +5,8 @@ package lesson1.tasks;
  * User: Anet
  * Date: 03.04.16
  * Time: 21:41
- * To change this template use File | Settings | File Templates.
  * Task 3
- * Class for definition
+ * Class for serialization
  */
 public class PersonTask3{
 

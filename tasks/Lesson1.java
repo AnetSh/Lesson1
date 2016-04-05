@@ -11,7 +11,6 @@ import java.util.*;
  * User: Anet
  * Date: 31.03.16
  * Time: 20:31
- * To change this template use File | Settings | File Templates.
  * Task1:
  * Create an annotation which gets parameters of the method. Call the method that is marked by annotation.
  * Send parameters of annotation in this method.

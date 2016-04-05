@@ -5,7 +5,6 @@ package lesson1.tasks;
  * User: Anet
  * Date: 31.03.16
  * Time: 20:48
- * To change this template use File | Settings | File Templates.
  * Task 2. The class contains a string to the file.
  */
 public class TextContainer {

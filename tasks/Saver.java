@@ -10,7 +10,6 @@ import java.lang.annotation.Target;
  * User: Anet
  * Date: 31.03.16
  * Time: 20:50
- * To change this template use File | Settings | File Templates.
  * Task 2.
  * Annotation marks method for storing in a file.
  */

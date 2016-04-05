@@ -10,7 +10,6 @@ import java.lang.annotation.Target;
  * User: Anet
  * Date: 31.03.16
  * Time: 21:53
- * To change this template use File | Settings | File Templates.
  * Task 3
  * Annotation marks field for serialization.
  */
